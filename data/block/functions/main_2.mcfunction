@@ -1,0 +1,17 @@
+execute as @a[scores={SDP_Block=1..},nbt={Inventory:[{id:"minecraft:bone_meal"}]}] run function block:bone_block
+execute as @a[scores={SDP_Block=1..},nbt={Inventory:[{id:"minecraft:coal"}]}] run function block:coal_block
+execute as @a[scores={SDP_Block=1..},nbt={Inventory:[{id:"minecraft:copper_ingot"}]}] run function block:copper_block
+execute as @a[scores={SDP_Block=1..},nbt={Inventory:[{id:"minecraft:diamond"}]}] run function block:diamond_block
+execute as @a[scores={SDP_Block=1..},nbt={Inventory:[{id:"minecraft:emerald"}]}] run function block:emerald_block
+execute as @a[scores={SDP_Block=1..},nbt={Inventory:[{id:"minecraft:gold_ingot"}]}] run function block:gold_block
+execute as @a[scores={SDP_Block=1..},nbt={Inventory:[{id:"minecraft:gold_nugget"}]}] run function block:gold_ingot
+execute as @a[scores={SDP_Block=1..},nbt={Inventory:[{id:"minecraft:iron_ingot"}]}] run function block:iron_block
+execute as @a[scores={SDP_Block=1..},nbt={Inventory:[{id:"minecraft:iron_nugget"}]}] run function block:iron_ingot
+execute as @a[scores={SDP_Block=1..},nbt={Inventory:[{id:"minecraft:lapis_lazuli"}]}] run function block:lapis_block
+execute as @a[scores={SDP_Block=1..},nbt={Inventory:[{id:"minecraft:netherite_ingot"}]}] run function block:netherite_block
+execute as @a[scores={SDP_Block=1..},nbt={Inventory:[{id:"minecraft:raw_copper"}]}] run function block:raw_copper_block
+execute as @a[scores={SDP_Block=1..},nbt={Inventory:[{id:"minecraft:raw_gold"}]}] run function block:raw_gold_block
+execute as @a[scores={SDP_Block=1..},nbt={Inventory:[{id:"minecraft:raw_iron"}]}] run function block:raw_iron_block
+execute as @a[scores={SDP_Block=1..},nbt={Inventory:[{id:"minecraft:redstone"}]}] run function block:redstone_block
+execute as @a[scores={SDP_Block=1..},nbt={Inventory:[{id:"minecraft:slime_ball"}]}] run function block:slime_block
+execute as @a[scores={SDP_Block=1..},nbt={Inventory:[{id:"minecraft:wheat"}]}] run function block:hay_block
