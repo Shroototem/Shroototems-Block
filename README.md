@@ -2,4 +2,4 @@
 
 <b>Compacts items to their smallest form</b>
 
-<img src="https://media.discordapp.net/attachments/636976988292382740/801969076112064572/unknown.png"></img>
+![image](https://user-images.githubusercontent.com/47718633/184559028-cafb7412-c72e-4f9c-a55d-b71b5a0cdc76.png)
