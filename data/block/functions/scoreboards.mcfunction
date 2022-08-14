@@ -1,2 +1,0 @@
-scoreboard objectives add SDP_Block trigger
-scoreboard objectives add SDP_BlockMake dummy
